@@ -31,6 +31,7 @@
 |------|---|---|
 |1주차<br/>(07.25 ~ 07.31)|1차원 배열 <br/> 함수 <br/> 문자열 <br/> |1. [평균은 넘겠지](https://www.acmicpc.net/problem/4344)<br/> 2. [셀프넘버](https://www.acmicpc.net/problem/4673) <br/> 3. [알파벳 찾기](https://www.acmicpc.net/problem/10809)|
 |2주차<br/>(08.01 ~ 08.07)|기본 수학1 <br/> 기본 수학2 <br/> 재귀<br/> |1. [분수찾기](https://www.acmicpc.net/problem/1193)<br/> 2. [설탕 배달](https://www.acmicpc.net/problem/2839)<br/> 3. [소수 구하기](https://www.acmicpc.net/problem/1929)<br/> 4. [골드바흐의 추측](https://www.acmicpc.net/problem/9020)<br/> 5. [피보나치 수5](https://www.acmicpc.net/problem/10870)<br/> 6. [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)<br/>|
+|3주차<br/>(08.08 ~ 08.14)|브루트포스 <br/> 정렬 <br/> 집합과 맵<br/> |1. [블랙잭](https://www.acmicpc.net/problem/2798)<br/> 2. [덩치](https://www.acmicpc.net/problem/7568)<br/> 3. [수 정렬하기](https://www.acmicpc.net/problem/2750)<br/> 4. [소트인사이드](https://www.acmicpc.net/problem/1427)<br/> 5. [대칭 차집합](https://www.acmicpc.net/problem/1269)<br/> 6. [숫자 카드 2](https://www.acmicpc.net/problem/10816)<br/>|
 
 
 ## 알고리즘 문제 사이트📖
